@@ -1,8 +1,8 @@
 ﻿<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rkelly310/CucumberAPIDemo/">
-    <img src="images/cucumber.png" alt="Logo">
+  <a href="https://github.com/rkelly310/SpecFlowDemo/">
+    <img src="images/specflow-logo-new.png" alt="Logo">
   </a>
 
   <h2 align="center">Creating and Testing BDD Scenarios using Specflow in .NET and Selenium Webdriver</h2>
